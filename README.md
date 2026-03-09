@@ -1,1 +1,1 @@
-# gfg-problems
+# leetcode-problems
